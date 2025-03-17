@@ -28,7 +28,7 @@ pip install matplotlib
 #### 6. Run the code in the code editor and it should open a window called "Figure 1", which is the scatter plot to visualize how customers are distributed.
 
 ## Part B Instructions:
-This code implements the K-Means clustering algorithm for k clusters, making sure it follows these steps:
+This code implements the K-Means clustering algorithm for k clusters, following these 5 steps:
 - **Step 1:** Select the first k data points as initial centroids.
 - **Step 2:** Assign each data point to the closest centroid based on Euclidean
 distance.
