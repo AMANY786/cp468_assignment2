@@ -25,7 +25,7 @@ pip install matplotlib
 
 #### 5. Open **q2_partA.py** and **CustomerProfiles_Q2** in a code editor (Ex. VS Code, Eclipse, etc)
 
-#### 6. Run the code in the code editor and it should open a window called "Figure 1", which is the scatter plot to visualize how customers are distributed.
+#### 6. Run **q2_partA.py** in the code editor and it should open a window called "Figure 1", which is the scatter plot to visualize how customers are distributed.
 
 
 ## Part B Instructions:
@@ -59,4 +59,4 @@ pip install pandas
 
 #### 5. Open **q2_partB.py** and **CustomerProfiles_Q2** in a code editor (Ex. VS Code, Eclipse, etc)
 
-#### 6. Run the code in the code editor and it should print the results in the terminal.
+#### 6. Run **q2_partB.py** in the code editor and it should print the results in the terminal.
